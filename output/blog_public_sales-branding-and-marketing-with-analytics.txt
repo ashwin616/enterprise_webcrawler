@@ -1,0 +1,88 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/sales-branding-and-marketing-with-analytics)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/sales-branding-and-marketing-with-analytics)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+#### Sales Branding and Marketing with Analytics
+By: **Kamakshi Gopalan** - Sep 19, 2019 
+![](https://www.kratosolutions.com/blog/public/fileman/Uploads/Presentation1.png)
+Here is all what you can get from your data and our analytics to track your performance measures.
+Any marketer wants success and success is measured by brand value, sales and awareness about the product and the company. The KPI which keeps track of these successes is usually the sales volume. With the evolution of technology, collection of data is nomore a process to be worried about and the action plan once the data is collected and stored is what we expertise in. By means of this, we shall ensure your success with ours.
+Art of analytics stays in understanding everything to be known about the business from the data it has generated. Data generated helps us to do a SWOT analysis about the product and the company. The depth of knowledge in analytics allows us to make wonders across the levels of different verticals in marketing. Analytics helps us to know best among different strategies adopted and tells us how tweaking these strategies can affect the performance measures.
+Analytics completes the cycle of marketing, it tells the marketer the right channel and strategy that works and increases performance. The drill down of this analytical frame work even helps us to trigger ideas for tweaking the strategies. The scenario planner helps us to play with the various inputs and various strategies as it accounts for the effect of each and every individual marketing medium and business constraint on the performance measures. 
+Marketing analytics starts with MMM (market mix models) where we find the Cause and effect relation i.e. sales as a function of Marketing variables, brand value, distribution of product, competition activity and other abnormalities. Defining this relationship is taken care by statistical methods, and as a result we get the contribution, elasticity and ROI of these inputs on sales and we can also study the price sensitivity. Once we know the ROI values, we can also derive the potential of a particular variable in affecting sales. ROI tells us the effectiveness of particular marketing medium.
+Now knowing the strategies and effective marketing medium, we can reallocate the existing budget in a more effective way to utilize the maximum headroom for contribution from each medium and thus plan the future budget of new marketing media mixture.
+To sum up, marketing has the role from reaching the new customer till engaging the old customer. The effectiveness of the same should be evaluated at each and every stage of the business, especially to adopt the accommodations of changes in business. Thus analytics helps the marketer to substantiate the working of their strategies and the chances of growth and limitation (point of saturation) of their strategies, which in turn helps them to change their game plan with options to optimize their marketing budget.
+* * *
+###### Categories :  [Functions](https://www.kratosolutions.com/blog/public/sales-branding-and-marketing-with-analytics)
+###### Tags :  [analytics](https://www.kratosolutions.com/blog/public/sales-branding-and-marketing-with-analytics)
+* * *
+### Leave a Reply [Cancel reply](https://www.kratosolutions.com/super-humans-take-on-data-sources-api-in-the-big-data-world/#respond)
+Name (required)
+Email (required)
+Message
+Submit
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ Analytics on Education - "Know yourself Better"](http://kratosolutions.com/blog/public/analytics-on-education-know-yourself-better) [ Supply Chain & Inventory Management New](http://kratosolutions.com/blog/public/supply-chain-inventory-management-new)
+##### Post by tags
+#####    
+[Supply Chain & Inventory Management](https://www.kratosolutions.com/blog/public/sales-branding-and-marketing-with-analytics)
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

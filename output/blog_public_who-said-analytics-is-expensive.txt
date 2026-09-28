@@ -1,0 +1,84 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/who-said-analytics-is-expensive)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/who-said-analytics-is-expensive)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+#### Who said Analytics is expensive?
+By: **Kamakshi Gopalan** - Oct 01, 2019 
+![](https://www.kratosolutions.com/blog/public/fileman/Uploads/analytics_expensive.png)
+These days every Tom, Dick and Harry talks about “Data Science”, “Machine Learning”, “Artificial Intelligence” etc. Such is the buzz for Data Science, obviously, because the newest revolution is data. All those nice things being said, the bitter truth must also be confronted. Many companies/businesses don’t opt to engage with Data Scientists! Astonishing isn’t? I feel you all. So when I went ahead researching reasons for this scenario cropping up , and I found that the major concern businesses had is, “the cost to hire analytical services”. 
+I do agree Analytics is a high-priced service compared to other services, but what matters most are the perspectives! There are two perspectives which I would like to discuss here: 1. Data Scientist’s perspective and 2. Business owner’s perspective.
+All your business movements are mostly recorded in detail. When you give the Data scientists your data, they see it like nobody else. They offer you invaluable insights from your own data, which everyone else failed to see. Being unique and offering the best has its own value and this the price they charge for the same. Now let’s move on to the businessmen perspective. Once Data Scientists have found insights from the data, they form strategies which hardly fail because, “this is the only foreseeing you do with evidence (data)”. This in turn leads to the growth of your business. It must be noted that, rise of every % in revenue will itself offer you huge profits and a study says that on an average, data analytics gives you a hike of about 10% - 30% on your turnover, for a FMCG industry. Percentage of hike differs across industries and companies. So what the businessmen forget is, comparatively they pay Data scientists much less than what they benefit out of engaging them. Do you still think analytics is expensive?
+Drop your thoughts down below and, to subscribe to analytical services write to info@kratosolutions.com.
+* * *
+###### Categories :  [Solutions](https://www.kratosolutions.com/blog/public/who-said-analytics-is-expensive)
+* * *
+### Leave a Reply [Cancel reply](https://www.kratosolutions.com/super-humans-take-on-data-sources-api-in-the-big-data-world/#respond)
+Name (required)
+Email (required)
+Message
+Submit
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ Analytics on Education - "Know yourself Better"](http://kratosolutions.com/blog/public/analytics-on-education-know-yourself-better) [ Supply Chain & Inventory Management New](http://kratosolutions.com/blog/public/supply-chain-inventory-management-new)
+##### Post by tags
+#####    
+[Supply Chain & Inventory Management](https://www.kratosolutions.com/blog/public/who-said-analytics-is-expensive)
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

@@ -1,0 +1,93 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/guide-your-patients-using-data-analytics)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/guide-your-patients-using-data-analytics)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+#### Guide Your Patients using Data analytics!
+By: **Kannan Venkatesh** - Oct 13, 2019 
+![](https://www.kratosolutions.com/blog/public/fileman/Uploads/pathway.png)
+**What is a clinical pathway?**
+Clinical pathways are evidence-based processes which will deliver the regimen for treatment specified, including the names of the drugs, dosage levels and schedule for administration.
+**How can it be done through data analytics?**
+Patient care is a set of complex activities usually intertwined with decision-making. That’s where data analytics comes into the picture. ML algorithms will helps us to deal with complex data and ideally delivers the clear pathway. 
+Data analytics supports the integrated management of both patients and doctors. It provides diagnoses and the prescribed therapies. Also it recommends the patients on the services he/she needs to consider next. Data analytics can also track and find the ideal patients and suggest the best strategy for improvement.
+**Benefits of Clinical Pathway:**
+* Clinical pathway helps to Increase the quality of service.
+* Improves patient satisfaction, patient outcomes and optimizes resources.
+* It proactively identifies high-risk patients and suggests a suitable treatment.
+* It can reduce Length of stay which leads to profits for hospital management. 
+* Nowadays the problem faced by most patients is that, they wait for long time periods to consult their doctor, take tests and receive treatments. Path analysis will reduce this waiting time. 
+* Pathway analysis helps to reduce clinical errors. Ultimately, it reduces the mortality rate.
+To explore more about clinical pathway analysis. Just write down to us, we will get in touch with you.
+* * *
+###### Categories :  [Industries](https://www.kratosolutions.com/blog/public/guide-your-patients-using-data-analytics)
+* * *
+### Leave a Reply [Cancel reply](https://www.kratosolutions.com/super-humans-take-on-data-sources-api-in-the-big-data-world/#respond)
+Name (required)
+Email (required)
+Message
+Submit
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ Analytics on Education - "Know yourself Better"](http://kratosolutions.com/blog/public/analytics-on-education-know-yourself-better) [ Supply Chain & Inventory Management New](http://kratosolutions.com/blog/public/supply-chain-inventory-management-new)
+##### Post by tags
+#####    
+[Supply Chain & Inventory Management](https://www.kratosolutions.com/blog/public/guide-your-patients-using-data-analytics)
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

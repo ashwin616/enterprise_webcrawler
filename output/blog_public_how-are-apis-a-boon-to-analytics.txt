@@ -1,0 +1,85 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/how-are-apis-a-boon-to-analytics)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/how-are-apis-a-boon-to-analytics)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+#### How are APIs a boon to Analytics?
+By: **Kamakshi Gopalan** - Nov 05, 2019 
+![](https://www.kratosolutions.com/blog/public/fileman/Uploads/api.png)
+Data mightn’t be always spoon fed to you in a consolidated form. Often you have to identify data sources and mine the required data. Again, not all data can be scrapped with a piece of code. There will be a requirements to integrate platforms with your analytics tool. What can be done?
+That is when APIs come into play. Before understanding how it helps analysts, let’s first understand about it. Application Programming interface(API) is the way for an application to interact with other system/application/library etc. In simple words, API acts like a messenger between your platforms. It delivers your query to the other intended platform and fetches the answer back to you.
+By now you would have possibly sensed how it helps analytics with the afore set context. What more is to be known is, they not only help in data pulling. Say if a product has been built on some new platform and there’s a need to perform data analysis, then we should convert the model constructed for the same purpose as an API and deploy it on the new platform. And magic! Your job is done! What an API can do depends on the permissions you have provided it with. There are read-only, read & write, read & manage etc. It has a world of usage possibilities and solves innumerous problems concerned with data analysts.
+However, before you obtain an API, a series of steps are to be followed depending on the platform/application you wish to connect. You obtain a unique “access key” and/or a “secret key” which you need to plug into your codes and execute the required integration.
+All is fine if you are a coder, because only then you will know where to plug-in the “keys” that you have got. What if you aren’t one? It is the least cause of concern because you have Krato Solutions ready to help you. You needn’t bother even about obtaining the “keys” and in fact get the benefit of analysing the data that you wanted to collect. Reach out to us at info@kratosolutions.com for any analytics needs.
+* * *
+###### Categories :  [Advanced Analytics](https://www.kratosolutions.com/blog/public/how-are-apis-a-boon-to-analytics)
+* * *
+### Leave a Reply [Cancel reply](https://www.kratosolutions.com/super-humans-take-on-data-sources-api-in-the-big-data-world/#respond)
+Name (required)
+Email (required)
+Message
+Submit
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ Analytics on Education - "Know yourself Better"](http://kratosolutions.com/blog/public/analytics-on-education-know-yourself-better) [ Supply Chain & Inventory Management New](http://kratosolutions.com/blog/public/supply-chain-inventory-management-new)
+##### Post by tags
+#####    
+[Supply Chain & Inventory Management](https://www.kratosolutions.com/blog/public/how-are-apis-a-boon-to-analytics)
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

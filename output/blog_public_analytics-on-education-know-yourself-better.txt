@@ -1,0 +1,96 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/analytics-on-education-know-yourself-better)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/analytics-on-education-know-yourself-better)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+#### Analytics on Education - "Know yourself Better"
+By: **Sarathkumar Kannan** - Aug 09, 2019 
+![](https://www.kratosolutions.com/blog/public/fileman/Uploads/edu.png)
+**Is analytics really required in Education?**
+Anyone could easily say Education is the most important part of every humans’ life. But the education is not just limited to the 8 hours sessions. It is even beyond that, whatever we see, think and learn new from the surroundings will also fall under this. It is about equipping ourselves internally, externally and in turn becomes a mind game. Obviously, we use our mind some way or other except while sleeping. And in fact the intensity and depth of your sleep also depend on your mind, implying that we use our mind 24 hours a day knowingly or unknowingly. 
+As we are educating ourselves every minute, we cannot really rely on our 8 hours progress report.
+In this modern era, everyone is adapting to a busy life (for many reasons say the growth of the Internet, various skill development courses, etc.,) which is making it hard for someone to stand, relax and assess their progress and growth.
+To fix this right, some analysis of their routine should come out and be monitored to understand their progress and interest. It is possible with the current technology and advance analytical solutions.
+"_If one can have a fit bit for tracking our health, then why can't we have an AI for tracking our mind?_ " 
+**How it can be done?**
+There are psychometrics that can define one’s IQ and if you look them closely, most of the things will depend on their daily routine.
+It is very simple, we just need to collect those metrics on a day-to-day basis and there are advance machine learning models through which we can clearly classify how you are educating yourself every day. This will act as an Artificial Intelligence.
+**Advantages:**
+  * One can assess whether their time spent daily is valuable or not.
+  * The analytical model will investigate and tell you about your interest and passion which itself a difficult task or a late-term process for many.
+  * The analytical model will recommend and give you insights about improving yourself.
+
+**_Interested in knowing yourself better? We_** **_have the metrics and models ready for you! Just give us a reply down_**** _, we will get in touch with you!_**
+* * *
+###### Categories :  [Industries](https://www.kratosolutions.com/blog/public/analytics-on-education-know-yourself-better)
+###### Tags :  [#Artifical Intelligence in Education #Machine Learning](https://www.kratosolutions.com/blog/public/analytics-on-education-know-yourself-better)
+* * *
+### Leave a Reply [Cancel reply](https://www.kratosolutions.com/super-humans-take-on-data-sources-api-in-the-big-data-world/#respond)
+Name (required)
+Email (required)
+Message
+Submit
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ Analytics on Education - "Know yourself Better"](http://kratosolutions.com/blog/public/analytics-on-education-know-yourself-better) [ Supply Chain & Inventory Management New](http://kratosolutions.com/blog/public/supply-chain-inventory-management-new)
+##### Post by tags
+#####    
+[Supply Chain & Inventory Management](https://www.kratosolutions.com/blog/public/analytics-on-education-know-yourself-better)
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

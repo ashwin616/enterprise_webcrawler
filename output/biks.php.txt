@@ -1,0 +1,163 @@
+[![India's Best Data analytics and artificial intelligence company - Krato Solutions in Chennai](https://www.kratosolutions.com/images/krato-solutions-best-data-analytics-artificial-intelligence-company-in-chennai.png)](https://www.kratosolutions.com/index.php)
+  * [ Company ](https://www.kratosolutions.com/biks.php)
+[About](https://www.kratosolutions.com/about.php) [Team](https://www.kratosolutions.com/team.php) [Careers](https://www.kratosolutions.com/careers.php) [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://www.kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment) [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+  * [AImage](https://www.kratosolutions.com/AImage.php)
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+[BIKS BI](https://www.kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://www.kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://www.kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/biks.php)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# BIKS
+## BIKS: Your data’s CCTV.
+We strongly believe most of your solutions deserve to be a tool / product, as it might require traceability & reusability. Krato Solutions has come up with a product, BIKS which can cater to all your needs.
+  
+
+##### What can BIKS do for you?
+BIKS can smartly classify your requirements into three exclusive and exhaustive set of services under its portfolio. Based on your requirements, you will be recommended to one of our premium services to fulfil your analytical needs. When it comes to BIKS you can be rest assured on the efficiency, performance and customizability. We trust that it will be your go to partner for its rich-looking interface and for its ease in usage.
+**BIKS awaits to be personalized for your needs!**
+## BIKS BI
+All businesses need an understanding of how they are performing. Currently, most businesses have started employing BI tools as they have become aware of the impact of BI. However they spend quite a lot of money in purchasing a license of BI tool. Our focus is to bring about a tool which takes care of the Cost-effectiveness, Efficiency and Features! 
+![BIKS BI - Original App Screenshot - Krato Solutions](https://www.kratosolutions.com/images/BIKS-BI--Product-Screenshot--Krato.png)
+###### What you can expect from our tool:
+  * User-friendly
+  * Appealing UI
+  * Connects any database
+  * Supports various sized data
+  * Cloud deployment
+  * Results exportable
+  * Real-time
+  * Fitting visualizations
+  * Advance analytics
+
+## BIKS Dashboard
+One place which can track all your metrics dynamically. It is a very scalable and flexible interface. All your required insights will be on one screen to compare and consolidate for further strategy planning.
+##### HR dashboard
+Man Management is a very huge but an integral process of any company. In order to make it more efficient and stable, it is necessary to get a 360 degree view of the employees and the company’s initiatives towards them. Here are the few, common key metrics that needs to be tracked and can be extended according to your requirements.
+![HR Dashboard - Krato analytics Company in Chennai](https://www.kratosolutions.com/images/HR-Dashboard--Krato-analytics-Company-in-Chennai.png)
+  * Absenteeism Rate
+  * Understanding gender diversity 
+  * Average Time Stay
+  * Training Costs
+  * Employee Productivity
+  * Cost per Hire
+  * Recruiting Conversion Rate
+  * Time to Fill a position
+  * Employee workload & overtime
+  * Turnover Rate
+
+##### GA dashboard
+In the modern days, digital marketing has become a buzz word and Google Analytics (GA) has become its irreplaceable tracking system. Though GA covers almost every aspect, there is a slight difficulty in understanding its dashboards as it contains many tabs and metrics which is hard to follow. So we are coming up with a dashboard which collects the metrics from GA and puts in a well-organised, user-friendly, customized manner. Here are the few common, key metrics that needs to be tracked and can be extended according to your requirements.
+![BIKS BI - Analytics Dashboard - Krato](https://www.kratosolutions.com/images/BIKS-BI--Analytics-Dashboard--Krato.png)
+  * Sessions and Users
+  * New and Returning Visitors
+  * Time on Page
+  * Bounce Rate by Browser
+  * Organic vs. Paid Sessions
+  * Top 5 Search Queries
+  * Gender & Age wise users
+  * Pages per Session
+  * Goal Conversion Rate 
+  * Page Load Time & Session duration
+
+##### Sales dashboard
+For any company, increasing sales and reputation are its primary objectives. Since most of the strategies formed are concerned with their sales, it becomes mandatory to track its performances. There are various Indicators which can help you in monitoring it and they vary across companies. However, the most common indicators have been listed out here.
+![BIKS BI - SAles Dashboard - Krato](https://www.kratosolutions.com/images/BIKS-BI--Sales-Dashboard--Krato.png)
+  * Sales Growth & Target
+  * Customer Acquisition Cost
+  * Customer Lifetime Value
+  * Customer Churn Rate
+  * Average Sales Cycle Length
+  * Revenue per Sales Rep
+  * Profit Margin per Sales team
+  * Upsell & Cross-Sell Rates 
+  * Campaign analysis
+  * Lead-to-Opportunity, Opportunity-to-Win & Lead Conversion ratios
+
+As everyone knows, the purpose of a dashboard cannot be limited to the above pointers. BIKS can also provide a dashboard for any specific/generic sector, function and platform. In case if you are curious, we can point out a few. 
+##### INDUSTRIES
+  * Healthcare
+  * Logistics
+  * Manufacturing
+  * Retail
+  * Digital Media
+  * FMCG
+
+##### FUNCTIONS
+  * HR
+  * Finance
+  * Sales
+  * Marketing
+  * IT
+  * Management
+
+##### PLATFORMS
+  * Google Analytics 
+  * Google AdWords 
+  * LinkedIn
+  * Twitter
+
+## Personalized BIKS
+Every company has individual tastes and needs. It would only be fitting if their needs are addressed personally and not through a general mould.
+![Personalized BIKS - Krato Solutions](https://www.kratosolutions.com/images/Personalized-BIKS--Krato-Solutions.png)
+##### What you can expect from our tool:
+Krato has emerged with Personalized BIKS where specific concerns will be heard and solutions will be offered in a tailor-made fashion. All your imaginations of an easy tool can be built from scratch and even advanced analytical solutions can be incorporated.
+  * Highly scalable
+  * Reusable
+  * User friendly
+  * Dynamic
+  * Completely customizable
+  * Accessible
+  * Effort saving
+
+Go big with BIKS! 
+Pen down your interests on BIKS to info@kratosolutions.com or
+Give us a shout at [+91 95665 13987](tel:+919566513987)
+[ ](tel:+919566513987)[Let's Talk](https://www.kratosolutions.com/contact-us.php)
+![](https://www.kratosolutions.com/images/krato-footer-design.png)
+[![MubeTech](https://www.kratosolutions.com/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com/)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

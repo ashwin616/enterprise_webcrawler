@@ -1,0 +1,63 @@
+# ── Web framework ─────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+
+# ── Settings ──────────────────────────────────────────
+pydantic==2.7.1
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+
+# ── Database ──────────────────────────────────────────
+psycopg2-binary==2.9.9
+pgvector==0.2.5
+
+# ── Kafka ─────────────────────────────────────────────
+confluent-kafka==2.4.0
+
+# ── Crawler ───────────────────────────────────────────
+crawl4ai==0.4.247
+requests==2.32.3
+fpdf2==2.7.9
+
+# ── LangChain ─────────────────────────────────────────
+langchain==0.2.5
+langchain-core==0.2.9
+langchain-text-splitters==0.2.1
+langchain-community==0.2.5
+langchain-experimental
+
+# ── Document parsers ──────────────────────────────────
+pdfplumber==0.11.0
+python-docx==1.1.2
+python-pptx==0.6.23
+pandas==2.2.2
+openpyxl==3.1.4
+
+# ── Embeddings (local, no API key) ────────────────────
+fastembed==0.3.1
+
+# ── Reranker ──────────────────────────────────────────
+sentence-transformers==3.0.1
+
+# ── LLM ───────────────────────────────────────────────
+groq==0.9.0
+
+# ── Evaluation metrics ────────────────────────────────
+nltk==3.8.1
+rouge-score==0.1.2
+
+# ── Chunking (token-based) ────────────────────────────
+tiktoken==0.7.0
+
+# ── Scheduler ─────────────────────────────────────────
+apscheduler==3.10.4
+
+# ── UI ────────────────────────────────────────────────
+streamlit==1.35.0
+
+beautifulsoup4
+ultimate-sitemap-parser
+tqdm
+
+

@@ -1,0 +1,125 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/?page=1)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/?page=1)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/Blog_AIMAGE.jpg)
+##### [How AImage helps improve in the Photography Business?](https://www.kratosolutions.com/blog/public/how-aimage-helps-improve-in-the-photography-business)
+02 Jan 2024 By: **AIMAGE**
+Event Photo Sharing With a QR Code... 
+[Read More](https://www.kratosolutions.com/blog/public/how-aimage-helps-improve-in-the-photography-business)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/orblog.png)
+##### [The Clear Picture of Operation Research and Its Use Cases](https://www.kratosolutions.com/blog/public/the-clear-picture-of-operation-research-and-its-use-cases)
+18 Nov 2019 By: **Kannan Venkatesh**
+Operation Research is the branch of advanced analytics which deals with the very complex situations and it helps to many organizations at various aspects . Lets look here about this.... 
+[Read More](https://www.kratosolutions.com/blog/public/the-clear-picture-of-operation-research-and-its-use-cases)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/NLPBLG.png)
+##### [Guide to Natural Language Processing and its Applications](https://www.kratosolutions.com/blog/public/guide-to-natural-language-processing-and-its-applications)
+10 Nov 2019 By: **Kannan Venkatesh**
+Can only humans think wise? If we train machines! Machines can outsmart humans! NLP is just other way of how logical operators work inside our brain! If our brain can work according to our thoughts and ideas! Ideas for NLP are their parametric values! We should fine tune them to get the most best working process!... 
+[Read More](https://www.kratosolutions.com/blog/public/guide-to-natural-language-processing-and-its-applications)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/dp.jpg)
+##### [Boost your Revenue with Dynamic Pricing](https://www.kratosolutions.com/blog/public/boost-your-revenue-with-dynamic-pricing)
+08 Nov 2019 By: **Vignesh Shanmugam**
+In the dynamic world, understanding “all the things are not treated with the same value, all the time” will improve your business with increasing turnover.... 
+[Read More](https://www.kratosolutions.com/blog/public/boost-your-revenue-with-dynamic-pricing)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/api.png)
+##### [How are APIs a boon to Analytics?](https://www.kratosolutions.com/blog/public/how-are-apis-a-boon-to-analytics)
+05 Nov 2019 By: **Kamakshi Gopalan**
+Data mightn’t be always spoon fed to you in a consolidated form. Often you have to identify data sources and mine the required data. Again, not all data can be scrapped with a piece of code. There will be a requirements to integrate platforms with your analytics tool. What can be done?... 
+[Read More](https://www.kratosolutions.com/blog/public/how-are-apis-a-boon-to-analytics)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/hotel_pic.png)
+##### [5 Hotel Data Strategies To Grow Your Business](https://www.kratosolutions.com/blog/public/5-hotel-data-strategies-to-grow-your-business)
+03 Nov 2019 By: **Kannan Venkatesh**
+5 strategies which will help you to grow your business and delight your customers in Hotels. Lets see here.... 
+[Read More](https://www.kratosolutions.com/blog/public/5-hotel-data-strategies-to-grow-your-business)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/farmer.png)
+##### [Agriculture & Analytics](https://www.kratosolutions.com/blog/public/agriculture-analytics)
+29 Oct 2019 By: **Kamakshi Gopalan**
+Backbone of the Indian economy is Agriculture. This bone seems to have a fracture. Let’s find the curative and strengthening methods.... 
+[Read More](https://www.kratosolutions.com/blog/public/agriculture-analytics)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/WOMM.png)
+##### [A Must need strategy for any business - WOM Marketing](https://www.kratosolutions.com/blog/public/a-must-need-strategy-for-any-business-wom-marketing)
+25 Oct 2019 By: **Vignesh Shanmugam**
+Everyday marketing strategies are getting improved beyond imagination. Simply Advertising your product or service may no longer be enough to make you stand in this competitive world.... 
+[Read More](https://www.kratosolutions.com/blog/public/a-must-need-strategy-for-any-business-wom-marketing)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/digi.png)
+##### [Analytics in Digital Marketing](https://www.kratosolutions.com/blog/public/analytics-in-digital-marketing)
+22 Oct 2019 By: **Kamakshi Gopalan**
+World has already started moving towards digital means of marketing looking at the effectiveness of its campaigns and their returns from the same. Don’t you think involving analytics into it will increase its effectiveness to the next level?... 
+[Read More](https://www.kratosolutions.com/blog/public/analytics-in-digital-marketing)
+![Card image cap](https://www.kratosolutions.com/blog/public/fileman/Uploads/video_seg.png)
+##### [Live Customer Segmentation – Video Analytics](https://www.kratosolutions.com/blog/public/live-customer-segmentation-video-analytics)
+21 Oct 2019 By: **Sarathkumar Kannan**
+Customer segmentation plays a vital role while strategizing Sales & Marketing of any brand/product. The conventional method of customer segmentation has almost reached everyone in the industry. Hence, this blog aims to focus on the evolution of advance analytics and to foresee the future of segmentation.... 
+[Read More](https://www.kratosolutions.com/blog/public/live-customer-segmentation-video-analytics)
+  * ‹
+  * 1
+  * [2](https://www.kratosolutions.com/blog/public?page=2)
+  * [3](https://www.kratosolutions.com/blog/public?page=3)
+  * [›](https://www.kratosolutions.com/blog/public?page=2)
+
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ How AImage helps improve in the Photography Business?](https://www.kratosolutions.com/blog/public/how-aimage-helps-improve-in-the-photography-business) [ The Clear Picture of Operation Research and Its Use Cases](https://www.kratosolutions.com/blog/public/the-clear-picture-of-operation-research-and-its-use-cases) [ Guide to Natural Language Processing and its Applications](https://www.kratosolutions.com/blog/public/guide-to-natural-language-processing-and-its-applications) [ Boost your Revenue with Dynamic Pricing](https://www.kratosolutions.com/blog/public/boost-your-revenue-with-dynamic-pricing) [ How are APIs a boon to Analytics?](https://www.kratosolutions.com/blog/public/how-are-apis-a-boon-to-analytics) [ 5 Hotel Data Strategies To Grow Your Business](https://www.kratosolutions.com/blog/public/5-hotel-data-strategies-to-grow-your-business) [ Agriculture & Analytics](https://www.kratosolutions.com/blog/public/agriculture-analytics) [ A Must need strategy for any business - WOM Marketing](https://www.kratosolutions.com/blog/public/a-must-need-strategy-for-any-business-wom-marketing) [ Analytics in Digital Marketing](https://www.kratosolutions.com/blog/public/analytics-in-digital-marketing) [ Live Customer Segmentation – Video Analytics](https://www.kratosolutions.com/blog/public/live-customer-segmentation-video-analytics)
+##### Post by tags
+#####    
+
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

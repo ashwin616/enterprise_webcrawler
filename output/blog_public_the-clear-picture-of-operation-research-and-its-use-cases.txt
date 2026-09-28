@@ -1,0 +1,104 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/the-clear-picture-of-operation-research-and-its-use-cases)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/the-clear-picture-of-operation-research-and-its-use-cases)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+#### The Clear Picture of Operation Research and Its Use Cases
+By: **Kannan Venkatesh** - Nov 18, 2019 
+![](https://www.kratosolutions.com/blog/public/fileman/Uploads/orblog.png)
+**Operations Research:**
+Operation Research is the branch of mathematical analysis which deals with the complex situations and provides better decision making solutions. In other words, OR is the problem solving process which optimizes performance and acts as an Armour to the management.
+**Different t echniques in OR:**
+Linear Programming:
+Linear programming problem(LPP), is a mathematical modeling technique where a linear function is maximized or minimized, when subjected to various constraints. This technique is a very useful guide while making quantitative decisions in business planning.
+Game Theory:
+Game theory is the study of mathematical models of negotiation, conflict and cooperation between individuals, organizations and governments. Game theory is applied in various areas of study to understand why an individual makes a particular decision and how the decisions made by one individual affect others.
+Decision theory:
+Decision theory is a formalization of the problems involved in making optimal choices. It can be broken into two branches: normative decision theory, which analyzes the outcomes of decisions or determines the optimal decisions given constraints and assumptions, and descriptive decision theory, which analyzes how agents actually make the decisions.
+Queuing Theory:
+Queuing theory is the mathematical study of waiting lines or queues. Queuing theory is generally considered a branch of operations research because the results are often used when making business decisions about resources needed to provide a service.
+**Importance of Operations Research:**
+Improved Decision Making: Operations research techniques can take different factors and reduce them to simple formulas. These formulas will help find the optimal solution(s) within the constraints set for the problem.
+Better Control: OR methods can be used to set up performance standards for employees and identify areas that need improvement. When these kinds of solutions are given to the management, it provides better direction and control over subordinates.
+Higher Productivity: The significant use of OR is the ability to identify optimal solutions. A few examples are, finding the best inventory mix, optimal utilization of manpower, most desirable use of plant machinery and highest-producing marketing campaigns.
+Better Departmental Coordination: When the optimal results from OR analysis are shared with all departments, everyone works together towards the same goal. For example, the marketing department might coordinate their efforts with the schedules laid out by the production supervisor.
+**U se cases of OR:**
+* Finance, Budgeting and Investments.
+* Marketing Insights
+* Purchasing, Procurement and Exploration
+* Production Management
+* Personnel Management
+* Research and Development
+To explore more about Operation research. contact us at **info@kratosolutions.com.**
+* * *
+###### Categories :  [Solutions](https://www.kratosolutions.com/blog/public/the-clear-picture-of-operation-research-and-its-use-cases) [Advanced Analytics](https://www.kratosolutions.com/blog/public/the-clear-picture-of-operation-research-and-its-use-cases)
+* * *
+### Leave a Reply [Cancel reply](https://www.kratosolutions.com/super-humans-take-on-data-sources-api-in-the-big-data-world/#respond)
+Name (required)
+Email (required)
+Message
+Submit
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ Analytics on Education - "Know yourself Better"](http://kratosolutions.com/blog/public/analytics-on-education-know-yourself-better) [ Supply Chain & Inventory Management New](http://kratosolutions.com/blog/public/supply-chain-inventory-management-new)
+##### Post by tags
+#####    
+[Supply Chain & Inventory Management](https://www.kratosolutions.com/blog/public/the-clear-picture-of-operation-research-and-its-use-cases)
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

@@ -1,0 +1,98 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/guide-to-natural-language-processing-and-its-applications)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/guide-to-natural-language-processing-and-its-applications)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+#### Guide to Natural Language Processing and its Applications
+By: **Kannan Venkatesh** - Nov 10, 2019 
+![](https://www.kratosolutions.com/blog/public/fileman/Uploads/NLPBLG.png)
+**What is NLP?**
+Natural Language processing is simply called as NLP. NLP is a sub-field of artificial Intelligence that deals with the interaction between computers and humans through Natural language. In other words, NLP is the AI technique which teaches the machines, how to understand and communicate with the humans through natural language.
+**How NLP works?**
+NLP is one of the most complex tasks in Artificial Intelligence. Let’s take an example, assume that we are searching some phrase in Google.
+In the back-end Google uses NLP technique to get the results we look for. How does it accomplish this? Let’s look at that step by step.
+In the first step, it will split the sentences into words whenever there is a space between them and uses punctuation sign to mark it as a separate word.
+In the second step, it will try to identify the parts of speech, i.e. whether it is a noun, a verb or an adjective and try to guess the meaning of the sentence.
+In the third step, it will ignore the most frequently occurring words like 'and', 'the', 'a' etc., if any. These words are called as stop words and NLP filters these words from the typed content because, they act as noise to the phrase.
+In the fourth step, it will predict the relationship between the words. It not only stops with finding the relationship, but also groups those words which will make it a single idea and finally it tries to understand the sentence.
+In the last step, it searches for the related topics from search engine and then throws the result in the order which we might look for.
+**Applications of NLP:**
+***** Chat bots and Virtual Assistants like Google assistant, AWS Alexa etc.
+* Spell Check and suggestion in emails. NLP is specifically used in many Web and Mobile applications.
+* Search auto complete and Language Translation in search engines. 
+* Sentimental analysis (a branch of text mining) of customer feedback.
+*Advanced NLP helps in Advertising and it tries to identify the potential customers of our product
+* Using NLP, we can filter out the relevant resumes which will help recruiters to detect candidates who meet their job requirements.
+To explore more about NLP and its applications. Contact us at **info@Kratosolutions.com**
+* * *
+###### Categories :  [Advanced Analytics](https://www.kratosolutions.com/blog/public/guide-to-natural-language-processing-and-its-applications)
+* * *
+### Leave a Reply [Cancel reply](https://www.kratosolutions.com/super-humans-take-on-data-sources-api-in-the-big-data-world/#respond)
+Name (required)
+Email (required)
+Message
+Submit
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ Analytics on Education - "Know yourself Better"](http://kratosolutions.com/blog/public/analytics-on-education-know-yourself-better) [ Supply Chain & Inventory Management New](http://kratosolutions.com/blog/public/supply-chain-inventory-management-new)
+##### Post by tags
+#####    
+[Supply Chain & Inventory Management](https://www.kratosolutions.com/blog/public/guide-to-natural-language-processing-and-its-applications)
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.

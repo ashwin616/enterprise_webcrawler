@@ -1,0 +1,107 @@
+[![](https://www.kratosolutions.com/blog/public/asset/images/logo.png)](https://kratosolutions.com/)
+  * [ Company ](https://www.kratosolutions.com/blog/public/zooming-in-data-analytics-with-krato-solutions)
+[About](https://kratosolutions.com/about.php) [Team](https://kratosolutions.com/team.php) [Careers](https://kratosolutions.com/careers.php) [Contact Us](https://kratosolutions.com/contact-us.php)
+  * [ Industries ](https://www.kratosolutions.com/industries.php)
+[Retail & FMCG](https://www.kratosolutions.com/industries.php#retail-and-fmcg) [Hospitality](https://www.kratosolutions.com/industries.php#hospitality) [Healthcare](https://www.kratosolutions.com/industries.php#healthcare) [Banking](https://www.kratosolutions.com/industries.php#banking)
+  * [ Services ](https://www.kratosolutions.com/services.php)
+[Sales Analytics](https://www.kratosolutions.com/services.php#sales-analytics) [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics) [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics) [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics) [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+  * [ Solutions ](https://kratosolutions.com/solutions.php)
+[Key Performance Indicators](https://kratosolutions.com/solutions.php#key-performance-indicators) [Customer Segmentation](https://kratosolutions.com/solutions.php#customer-segmentation) [Return On Investment](https://kratosolutions.com/solutions.php#return-on-investment) [Competition Analysis](https://kratosolutions.com/solutions.php#competition-analysis) [Forecasting](https://kratosolutions.com/solutions.php#forecasting) [Analytics Everywhere](https://kratosolutions.com/solutions.php#analytics-everywhere)
+  * [BIKS](https://kratosolutions.com/biks.php)
+[BIKS BI](https://kratosolutions.com/biks.php#bi) [BIKS Dashboard](https://kratosolutions.com/biks.php#dashboard) [Personalized BIKS](https://kratosolutions.com/biks.php#personalized)
+  * [ Resources ](https://www.kratosolutions.com/blog/public/zooming-in-data-analytics-with-krato-solutions)
+[Blog](https://www.kratosolutions.com/blog/public)
+
+# Blog
+#### Zooming in – Data Analytics with Krato Solutions
+By: **Sarathkumar Kannan** - Sep 04, 2019 
+![](https://www.kratosolutions.com/blog/public/fileman/Uploads/zoomatics.png)
+Nowadays words like machine learning, deep learning, artificial intelligence have become very fancy that it can chart itself above data analytics. But all these are just different versions and in-fact, act just as a weapon of Data Analytics. Let’s dissect analytics in detail and understand its ability in improving any business.
+**1) What is Data and its potential?**
+Data is information and it is available internally. Also, there is a chance of availability of data from external sources (Eg. Social Media). Data will be your unbiased well-wisher and the information it contains is completely strategic. With evidence, it can allow us to study
+  * How the processes are performing?
+  * Insights for a process to be optimal
+  * Scope for strategy planning and validation
+  * Solutions to your problems.
+
+**2) Why Data Analytics?**
+To unleash all its potential, data needs to be beaten heavily with analytics. 
+  * Business runs with ‘n’ number of processes to achieve its objective. Tracking it becomes the most difficult thing for anyone who is handling it. Data analytics can help them by introducing Key Performance Indicators (KPIs) which can act as your business dictionary, to know and track its impact.
+  * Result of any business depends on the outcomes of the strategies made. Consulting data (a 360-degree view of your business) before making a decision, will help your decision-makers to a great extent while forming a strategy.
+  * It’s important to track and study the impact of the strategies made. Data analytics can do a before-after study to validate your strategies.
+  * Confidence is a must to run any business. Quantifying the confidence is more important. Data analytics will help you in quantifying it by preparing Business Confidence Index (BCI) for your processes. 
+
+**3) How Krato Solutions can be your end to end strategic partner?**
+Here is our high-level architecture to achieve our objectives:
+  * We track all the business processes with your data and will come up with Indicators using analytical techniques which can narrate and track your performance.
+  * Having the data, we will foresee your Performances & Risks which will help you in assessing and planning your business in advance.
+  * We can do segmentation analysis which will classify your target audience for better strategy planning.
+  * As a company, you might be investing a significant sum in marketing. We can develop models which can compute your Return On Investment (ROI) and in turn can study the contribution across different channels with which budget optimization can be done.
+  * We can also implement competition analysis with external source of data to make you stand tall in the market.
+  * We will ensure our solutions are dynamic and reusable by delivering it to you in a customizable tool format. 
+
+Applying the above steps to all your functions will bring about a strategic change in your business, which in return will yield you revenue and save efforts.
+Machine Learning, Deep Learning, Artificial Intelligence and other analytics techniques will be used to accomplish our above objectives. 
+**Just reach out to us to make your business more vibrant!**
+* * *
+###### Categories :  [Solutions](https://www.kratosolutions.com/blog/public/zooming-in-data-analytics-with-krato-solutions)
+* * *
+### Leave a Reply [Cancel reply](https://www.kratosolutions.com/super-humans-take-on-data-sources-api-in-the-big-data-world/#respond)
+Name (required)
+Email (required)
+Message
+Submit
+##### Subscribe here!
+  
+Email*  
+  
+  
+Subscribe
+##### Recent Post!
+#####    
+[ Analytics on Education - "Know yourself Better"](http://kratosolutions.com/blog/public/analytics-on-education-know-yourself-better) [ Supply Chain & Inventory Management New](http://kratosolutions.com/blog/public/supply-chain-inventory-management-new)
+##### Post by tags
+#####    
+[Supply Chain & Inventory Management](https://www.kratosolutions.com/blog/public/zooming-in-data-analytics-with-krato-solutions)
+![](https://www.kratosolutions.com/blog/public/asset/images/footer-bg.png)
+[![MubeTech](https://www.kratosolutions.com/blog/public/asset/images/footer-logo.png)](https://www.kratosolutions.com/ "MubeTech")
+One stop for data driven solutions   
+
+  * [](https://www.facebook.com/Krato-Solutions-108406560501899/)
+  * [](https://www.linkedin.com/company/kratosolutions)
+  * [](https://twitter.com/KratoSolutions)
+  * [](https://www.instagram.com/kratosolutions/)
+
+## Company
+  * [Home](https://www.kratosolutions.com)
+  * [About Us](https://www.kratosolutions.com/about.php)
+  * [Team](https://www.kratosolutions.com/team.php)
+  * [Careers](https://www.kratosolutions.com/careers.php)
+  * [Contact Us](https://www.kratosolutions.com/contact-us.php)
+  * [Blog](https://www.kratosolutions.com/blog/public)
+
+## Industries
+  * [Retail & FMCG](https://www.kratosolutions.com/industries.php)
+  * [Hospitality](https://www.kratosolutions.com/industries.php#hospitality)
+  * [Healthcare](https://www.kratosolutions.com/industries.php#healthcare)
+  * [Banking](https://www.kratosolutions.com/industries.php#banking)
+
+## Product
+  * [BIKS](https://www.kratosolutions.com/biks.php)
+
+## Services
+  * [Sales Analytics](https://www.kratosolutions.com/services.php)
+  * [Marketing Analytics](https://www.kratosolutions.com/services.php#marketing-analytics)
+  * [HR Analytics](https://www.kratosolutions.com/services.php#hr-analytics)
+  * [Customer Analytics](https://www.kratosolutions.com/services.php#customer-analytics)
+  * [Supply Chain & Inventory Management](https://www.kratosolutions.com/services.php#supply-chain-and-inventory-management)
+
+## Solutions
+  * [Key Performance Indicators](https://www.kratosolutions.com/solutions.php#key-performance-indicators)
+  * [Customer Segmentation](https://www.kratosolutions.com/solutions.php#customer-segmentation)
+  * [Return On Investment](https://www.kratosolutions.com/solutions.php#retun-on-investment)
+  * [Competition Analysis](https://www.kratosolutions.com/solutions.php#competition-analysis)
+  * [Forecasting](https://www.kratosolutions.com/solutions.php#forecasting)
+  * [Analytics Everywhere](https://www.kratosolutions.com/solutions.php#analytics-everywhere)
+
+© Copyright Krato Solutions 2026. All rights reserved.
